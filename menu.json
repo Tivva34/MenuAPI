@@ -4,7 +4,7 @@
       "id": 1,
       "code": "S",
       "name": "Edamamebönor med salt",
-      "description": null,
+      "description": "Saltade sojabönor, lätt varma.",
       "price": 59,
       "category": "Sushi/Smårätter",
       "notes": null
@@ -139,7 +139,7 @@
       "id": 16,
       "code": "S",
       "name": "Drake rulle Avokado 10 bitar",
-      "description": null,
+      "description": "Drakerulle med avokado och krispiga grönsaker.",
       "price": 149,
       "category": "Sushi/Specialrulle",
       "notes": null
@@ -148,7 +148,7 @@
       "id": 17,
       "code": "S",
       "name": "Drake rulle Tonfisk med chilimajo 10 bitar",
-      "description": null,
+      "description": "Tonfiskrulle toppad med chilimajo.",
       "price": 149,
       "category": "Sushi/Specialrulle",
       "notes": null
@@ -157,7 +157,7 @@
       "id": 18,
       "code": "S",
       "name": "Drake rulle Lax med chilimajo 10 bitar",
-      "description": null,
+      "description": "Laxrulle med chilimajo och krispiga ingredienser.",
       "price": 149,
       "category": "Sushi/Specialrulle",
       "notes": null
@@ -184,7 +184,7 @@
       "id": 21,
       "code": "S",
       "name": "Hosomaki Lax 8 st",
-      "description": null,
+      "description": "8 st tunna maki med lax.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -193,7 +193,7 @@
       "id": 22,
       "code": "S",
       "name": "Hosomaki Tonfisk 8 st",
-      "description": null,
+      "description": "8 st tunna maki med tonfisk.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -202,7 +202,7 @@
       "id": 23,
       "code": "S",
       "name": "Hosomaki Tempura 8 st",
-      "description": null,
+      "description": "8 st hosomaki med tempura-friterad fyllning.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -211,7 +211,7 @@
       "id": 24,
       "code": "S",
       "name": "Hosomaki Crabsticks 8 st",
-      "description": null,
+      "description": "8 st hosomaki med crabsticks.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -220,7 +220,7 @@
       "id": 25,
       "code": "S",
       "name": "Hosomaki Inlagda morötter 8 st",
-      "description": null,
+      "description": "8 st hosomaki med inlagda morötter.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -229,7 +229,7 @@
       "id": 26,
       "code": "S",
       "name": "Hosomaki Gurka 8 st",
-      "description": null,
+      "description": "8 st hosomaki med gurka.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -238,7 +238,7 @@
       "id": 27,
       "code": "S",
       "name": "Hosomaki Avokado 8 st",
-      "description": null,
+      "description": "8 st hosomaki med avokado.",
       "price": 75,
       "category": "Sushi/Hosomaki",
       "notes": null
@@ -373,7 +373,7 @@
       "id": 42,
       "code": "FS",
       "name": "Sjögrässallad",
-      "description": null,
+      "description": "Sjögrässallad med sesam och lätt dressing.",
       "price": 35,
       "category": "Tillägg",
       "notes": null
@@ -382,7 +382,7 @@
       "id": 43,
       "code": "FS",
       "name": "Inlagd ingefära",
-      "description": null,
+      "description": "Inlagd ingefära, serveras som smakrikt tillbehör till sushi.",
       "price": 35,
       "category": "Tillägg",
       "notes": null
@@ -391,7 +391,7 @@
       "id": 44,
       "code": "FS",
       "name": "Picklad rödlök",
-      "description": null,
+      "description": "Syrlig picklad rödlök, passar som tillbehör.",
       "price": 35,
       "category": "Tillägg",
       "notes": null
@@ -400,7 +400,7 @@
       "id": 45,
       "code": "FS",
       "name": "Chilimajo",
-      "description": null,
+      "description": "Kryddig chilimajonnäs, perfekt som dip.",
       "price": 15,
       "category": "Tillägg",
       "notes": null
@@ -409,7 +409,7 @@
       "id": 46,
       "code": "V",
       "name": "Kimchi",
-      "description": null,
+      "description": "Koreansk fermenterad kål, kryddig och smakrik.",
       "price": 35,
       "category": "Tillägg",
       "notes": null
@@ -418,7 +418,7 @@
       "id": 47,
       "code": "S",
       "name": "Alaska Roll",
-      "description": null,
+      "description": "Rulle med lax och avokado, toppad med majonnäs.",
       "price": 159,
       "category": "Sushi/Rullar",
       "notes": null
@@ -427,7 +427,7 @@
       "id": 48,
       "code": "S",
       "name": "Misosoppa",
-      "description": null,
+      "description": "Varm misosoppa med tofu och sjögräs.",
       "price": 0,
       "category": "Soppor",
       "notes": null
@@ -436,7 +436,7 @@
       "id": 49,
       "code": "S",
       "name": "Yakiniku Roll",
-      "description": null,
+      "description": "Rulle med yakiniku (grillat kött) och grönsaker.",
       "price": 159,
       "category": "Sushi/Rullar",
       "notes": null
@@ -445,7 +445,7 @@
       "id": 50,
       "code": "S",
       "name": "Philadelphia roll",
-      "description": null,
+      "description": "Rulle med lax och philadelphiaost.",
       "price": 149,
       "category": "Sushi/Rullar",
       "notes": null
@@ -454,7 +454,7 @@
       "id": 51,
       "code": "S",
       "name": "Friterad roll",
-      "description": null,
+      "description": "Friterad rulle med krispig yta, serveras varm.",
       "price": 149,
       "category": "Sushi/Rullar",
       "notes": null
@@ -463,7 +463,7 @@
       "id": 52,
       "code": "S",
       "name": "Veggie Sushi Roll",
-      "description": null,
+      "description": "Vegetarisk rulle med färska grönsaker.",
       "price": 139,
       "category": "Sushi/Rullar",
       "notes": null
@@ -472,7 +472,7 @@
       "id": 53,
       "code": "S",
       "name": "Yakiniku Bowl",
-      "description": null,
+      "description": "Skål med yakiniku, ris och fräscha grönsaker.",
       "price": 139,
       "category": "Bowls",
       "notes": null
@@ -481,7 +481,7 @@
       "id": 54,
       "code": "S",
       "name": "Stekt Lax Bowl med chilimajo och teriyakisås",
-      "description": null,
+      "description": "Stekt lax serverad över ris med chilimajo och teriyakisås.",
       "price": 139,
       "category": "Bowls",
       "notes": null
@@ -499,7 +499,7 @@
       "id": 56,
       "code": "F",
       "name": "Friterade vegetariska Vårrullar",
-      "description": null,
+      "description": "Vegetariska vårrullar, frasiga och gyllene.",
       "price": 49,
       "category": "Förrätter",
       "notes": null
@@ -508,7 +508,7 @@
       "id": 57,
       "code": "F",
       "name": "Tempura-friterade Räkor",
-      "description": null,
+      "description": "Lätta tempura-friterade räkor, serveras med dipp.",
       "price": 49,
       "category": "Förrätter",
       "notes": null
@@ -535,7 +535,7 @@
       "id": 50,
       "code": "S",
       "name": "Kycklingsallad",
-      "description": null,
+      "description": "Sallad med marinerad kyckling, fräscha grönsaker och dressing.",
       "price": 69,
       "category": "Förrätter/Sallader",
       "notes": "🌶️🌶️"
@@ -544,7 +544,7 @@
       "id": 51,
       "code": "S",
       "name": "Biffsallad",
-      "description": null,
+      "description": "Sallad med strimlad biff och kryddig dressing.",
       "price": 79,
       "category": "Förrätter/Sallader",
       "notes": "🌶️"
@@ -553,7 +553,7 @@
       "id": 52,
       "code": "S",
       "name": "Räksallad",
-      "description": null,
+      "description": "Sallad med räkor, fräscha grönsaker och lätt dressing.",
       "price": 79,
       "category": "Förrätter/Sallader",
       "notes": null
@@ -562,7 +562,7 @@
       "id": 53,
       "code": "B",
       "name": "Friterad Kyckling",
-      "description": null,
+      "description": "Friterade kycklingbitar, krispiga och smakrika.",
       "price": 49,
       "category": "Förrätter",
       "notes": null
@@ -571,7 +571,7 @@
       "id": 54,
       "code": "K",
       "name": "Lökringar",
-      "description": null,
+      "description": "Friterade lökringar, serveras med valfri dip.",
       "price": 49,
       "category": "Förrätter",
       "notes": null
@@ -580,7 +580,7 @@
       "id": 65,
       "code": "F",
       "name": "Veggie Dumpling",
-      "description": null,
+      "description": "Vegetariska dumplings, serveras varma.",
       "price": 59,
       "category": "Förrätter",
       "notes": null
@@ -751,7 +751,7 @@
       "id": 84,
       "code": "B",
       "name": "Stor Biffsallad",
-      "description": null,
+      "description": "Stor sallad med strimlad biff och blandade grönsaker.",
       "price": 149,
       "category": "Biff",
       "notes": null
@@ -967,7 +967,7 @@
       "id": 108,
       "code": "FS",
       "name": "Räksoppa (Tom Yam Goong) - Very hot",
-      "description": null,
+      "description": "Mycket stark räksoppa med tom yam-smak, galanga och citrongräs.",
       "price": 149,
       "category": "Fisk och Skaldjur/Soppor",
       "notes": "🌶️🌶️🌶️"
@@ -1084,7 +1084,7 @@
       "id": 121,
       "code": "V",
       "name": "Stekta grönsaker med vitlök",
-      "description": null,
+      "description": "Stekta grönsaker med rik vitlökssmak.",
       "price": 119,
       "category": "Vegetariskt",
       "notes": null
@@ -1093,7 +1093,7 @@
       "id": 122,
       "code": "V",
       "name": "Stekt ris med ägg och grönsaker",
-      "description": null,
+      "description": "Stekt ris med ägg och blandade grönsaker.",
       "price": 119,
       "category": "Vegetariskt",
       "notes": null
@@ -1111,7 +1111,7 @@
       "id": 124,
       "code": "V",
       "name": "Grönsaker med röd curry och kokosmjölk",
-      "description": null,
+      "description": "Grönsaker i röd curry med kokosmjölk.",
       "price": 119,
       "category": "Vegetariskt",
       "notes": null
@@ -1120,7 +1120,7 @@
       "id": 125,
       "code": "V",
       "name": "Stekta risnudlar med ägg och grönsaker",
-      "description": null,
+      "description": "Stekta risnudlar med ägg och fräscha grönsaker.",
       "price": 119,
       "category": "Vegetariskt",
       "notes": null
@@ -1129,7 +1129,7 @@
       "id": 126,
       "code": "V",
       "name": "Extra Tofu",
-      "description": null,
+      "description": "Extra portion tofu som tillägg.",
       "price": 10,
       "category": "Tillägg",
       "notes": null
@@ -1138,7 +1138,7 @@
       "id": 127,
       "code": "D",
       "name": "Pepsi",
-      "description": null,
+      "description": "Kolsyrad läsk - Pepsi.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1147,7 +1147,7 @@
       "id": 128,
       "code": "D",
       "name": "Pepsi Max",
-      "description": null,
+      "description": "Kolsyrad läsk utan socker - Pepsi Max.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1156,7 +1156,7 @@
       "id": 129,
       "code": "D",
       "name": "7-UP",
-      "description": null,
+      "description": "Kolsyrad lemon-lime-läsk.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1165,7 +1165,7 @@
       "id": 130,
       "code": "D",
       "name": "Zingo",
-      "description": null,
+      "description": "Söt citrusläsk (Zingo).",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1174,7 +1174,7 @@
       "id": 131,
       "code": "D",
       "name": "Mountain Dew",
-      "description": null,
+      "description": "Kolsyrad citrusläsk - Mountain Dew.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1183,7 +1183,7 @@
       "id": 132,
       "code": "D",
       "name": "Trocadero",
-      "description": null,
+      "description": "Kolsyrad läsk med tropisk smak - Trocadero.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1192,7 +1192,7 @@
       "id": 133,
       "code": "D",
       "name": "Hallonsoda",
-      "description": null,
+      "description": "Kolsyrad hallonsoda.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1201,7 +1201,7 @@
       "id": 134,
       "code": "D",
       "name": "Ramlösa Citrus",
-      "description": null,
+      "description": "Kolsyrat mineralvatten med citrus.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1210,7 +1210,7 @@
       "id": 135,
       "code": "D",
       "name": "Ramlösa Naturell",
-      "description": null,
+      "description": "Kolsyrat mineralvatten, naturell.",
       "price": 20,
       "category": "Dryck",
       "notes": null
@@ -1219,7 +1219,7 @@
       "id": 136,
       "code": "D",
       "name": "Festis Apelsin",
-      "description": null,
+      "description": "Fruktdryck - apelsin.",
       "price": 15,
       "category": "Dryck",
       "notes": null
@@ -1228,7 +1228,7 @@
       "id": 137,
       "code": "D",
       "name": "Festis Hallon",
-      "description": null,
+      "description": "Fruktdryck - hallon.",
       "price": 15,
       "category": "Dryck",
       "notes": null
@@ -1237,7 +1237,7 @@
       "id": 138,
       "code": "D",
       "name": "Festis Päron",
-      "description": null,
+      "description": "Fruktdryck - päron.",
       "price": 15,
       "category": "Dryck",
       "notes": null
@@ -1246,7 +1246,7 @@
       "id": 139,
       "code": "D",
       "name": "Lättöl",
-      "description": null,
+      "description": "Lättöl, alkoholsvag öl.",
       "price": 20,
       "category": "Dryck",
       "notes": null
