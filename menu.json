@@ -1,1237 +1,1255 @@
 {
   "menu": [
     {
-    "id": 1,
-    "code": "S",
-    "name": "Edamamebönor med salt",
-    "description": null,
-    "price": 59,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 2,
-    "code": "S",
-    "name": "Crispy dumplings Kyckling (4st)",
-    "description": null,
-    "price": 59,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 3,
-    "code": "S",
-    "name": "Crispy dumplings Vegetarisk (4st)",
-    "description": null,
-    "price": 59,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 4,
-    "code": "S",
-    "name": "Panko kyckling med chilimajo och teriyakisås",
-    "description": null,
-    "price": 59,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 5,
-    "code": "S",
-    "name": "Mix Sushi 5 valfria bitar",
-    "description": "Välj 5 valfria bitar från ett stort urval av sushi",
-    "price": 69,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 6,
-    "code": "S",
-    "name": "Mix Sushi 10 valfria bitar",
-    "description": "Välj 10 valfria bitar från ett stort urval av sushi",
-    "price": 129,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 7,
-    "code": "S",
-    "name": "14 valfria bitar eller mer",
-    "description": "11kr/st! Välj minst 14 valfria bitar från ett stort urval av sushi",
-    "price": 0,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 8,
-    "code": "S",
-    "name": "Mix Sushi 12 bitar Nigiri",
-    "description": "3 Lax, 3 Halstrad Lax, 3 Tonfisk och 3 Räkor",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 9,
-    "code": "S",
-    "name": "Mix Sushi 12 bitar Mix",
-    "description": "3 Lax, 2 Räkor, 2 Avocado, 3 Laxrulle och 2 California roll",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 10,
-    "code": "S",
-    "name": "Big Set 30 valfria bitar",
-    "description": "Mixa din egen sushi! Välj 30 bitar fritt mellan ett stort urval av både nigiri och maki rolls",
-    "price": 329,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 11,
-    "code": "S",
-    "name": "Big Set Combo 30 bitar",
-    "description": "5 Lax, 5 Räkor, 4 Halstrad Lax med chilimajo och rostad lök, 4 Tonfisk, 4 Laxrulle, 4 California roll och 4 Stark Lax",
-    "price": 329,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 12,
-    "code": "S",
-    "name": "Specialrulle Krispig Kyckling 10 bitar",
-    "description": "Panko kyckling, gurka, inlagda morötter, sallad, chilimajo, teriyakiås, sesamfrö och kaviar",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 13,
-    "code": "S",
-    "name": "Specialrulle Fire Salmon 10 bitar",
-    "description": "Tofu, crabsticks, halstrad lax, chilimajo och sesamfrö",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 14,
-    "code": "S",
-    "name": "Specialrulle Baan Thakök Stark Lax 10 bitar",
-    "description": "Laxröra, gurka, inlagda morötter, chilimajo, sesamfrö och rostad lök",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 15,
-    "code": "S",
-    "name": "Specialrulle Lax Superfotomaki 10 bitar",
-    "description": "Stekt lax, gurka, inlagda morötter, sallad och chilimajo",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 16,
-    "code": "S",
-    "name": "Drake rulle Avokado 10 bitar",
-    "description": null,
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 17,
-    "code": "S",
-    "name": "Drake rulle Tonfisk med chilimajo 10 bitar",
-    "description": null,
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 18,
-    "code": "S",
-    "name": "Drake rulle Lax med chilimajo 10 bitar",
-    "description": null,
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 19,
-    "code": "S",
-    "name": "Drake rulle Blanda",
-    "description": "Blanda mellan tonfisk, lax, räka, japansk ål och avocado",
-    "price": 169,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 20,
-    "code": "S",
-    "name": "Veg. Drake rulle 10 bitar",
-    "description": "Tofu, avocado, gurka, philadelphiaost och teriyakisås",
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 21,
-    "code": "S",
-    "name": "Hosomaki Lax 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 22,
-    "code": "S",
-    "name": "Hosomaki Tonfisk 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 23,
-    "code": "S",
-    "name": "Hosomaki Tempura 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 24,
-    "code": "S",
-    "name": "Hosomaki Crabsticks 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 25,
-    "code": "S",
-    "name": "Hosomaki Inlagda morötter 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 26,
-    "code": "S",
-    "name": "Hosomaki Gurka 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 27,
-    "code": "S",
-    "name": "Hosomaki Avokado 8 st",
-    "description": null,
-    "price": 75,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 28,
-    "code": "S",
-    "name": "Poké Bowl Vegetarisk",
-    "description": "Ris, tofu, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö",
-    "price": 139,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 29,
-    "code": "S",
-    "name": "Poké Bowl Lax",
-    "description": "Ris, lax, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö",
-    "price": 139,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 30,
-    "code": "S",
-    "name": "Poké Bowl Tonfisk",
-    "description": "Ris, tonfisk, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö",
-    "price": 139,
-    "category": "Sushi",
-    "notes": null
-  },
+      "id": 1,
+      "code": "S",
+      "name": "Edamamebönor med salt",
+      "description": null,
+      "price": 59,
+      "category": "Sushi/Smårätter",
+      "notes": null
+    },
     {
-    "id": 31,
-    "code": "S",
-    "name": "Poké Bowl Panko Kyckling med chilimajo",
-    "description": "Ris, Panko Kyckling, chilimajo, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö",
-    "price": 139,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 32,
-    "code": "S",
-    "name": "Poké Bowl Tempura med chilimajo",
-    "description": "Ris, Tempura, chilimajo, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö",
-    "price": 139,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 33,
-    "code": "V",
-    "name": "Bento Veg. med friterad tofu",
-    "description": "Vegetarisk Bento med friterad tofu, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås",
-    "price": 159,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 34,
-    "code": "S",
-    "name": "Bento Teriyaki Lax",
-    "description": "Bento med Teriyaki Lax, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås",
-    "price": 159,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 35,
-    "code": "K",
-    "name": "Bento Teriyaki Kyckling",
-    "description": "Bento med Teriyaki Kyckling, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås",
-    "price": 159,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 36,
-    "code": "B",
-    "name": "Bento Yakiniku",
-    "description": "Bento med Yakiniku, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås",
-    "price": 159,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 37,
-    "code": "TH",
-    "name": "Baan Thaikök Bibimbap",
-    "description": "Ris, yakiniku, tempura-friterade räkor, kimchi, kokt ägg, sjögrässallad, inlagd ingefära, inlagda morötter, picklad rödlök, böngroddar och koreansk chilisås",
-    "price": 159,
-    "category": "Thailändsk mat",
-    "notes": null
-  },
-  {
-    "id": 38,
-    "code": "B",
-    "name": "Yakiniku",
-    "description": "Yakiniku med ris, tunna skivor entrecote, teriyakisås, lök och sesamfrö",
-    "price": 149,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 39,
-    "code": "K",
-    "name": "Teriyaki Kyckling",
-    "description": "Teriyaki Kyckling med ris, teriyakisås och sesamfrö",
-    "price": 139,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 40,
-    "code": "K",
-    "name": "Teriyaki Lax",
-    "description": "Ris, stekt lax, teriyakisås och sesamfrön",
-    "price": 139,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 41,
-    "code": "K",
-    "name": "Kyckling Katsu",
-    "description": "Ris, friterad kyckling med panko, chilimajo, soja och sesamfrön",
-    "price": 139,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 42,
-    "code": "FS",
-    "name": "Sjögrässallad",
-    "description": null,
-    "price": 35,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 43,
-    "code": "FS",
-    "name": "Inlagd ingefära",
-    "description": null,
-    "price": 35,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 44,
-    "code": "FS",
-    "name": "Picklad rödlök",
-    "description": null,
-    "price": 35,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 45,
-    "code": "FS",
-    "name": "Chilimajo",
-    "description": null,
-    "price": 15,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 46,
-    "code": "V",
-    "name": "Kimchi",
-    "description": null,
-    "price": 35,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 47,
-    "code": "S",
-    "name": "Alaska Roll",
-    "description": null,
-    "price": 159,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 48,
-    "code": "S",
-    "name": "Yakiniku Roll",
-    "description": null,
-    "price": 159,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 49,
-    "code": "S",
-    "name": "Philadelphia Roll",
-    "description": null,
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 50,
-    "code": "S",
-    "name": "Friterad Roll",
-    "description": null,
-    "price": 149,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 51,
-    "code": "S",
-    "name": "Veggie Sushi Roll",
-    "description": null,
-    "price": 139,
-    "category": "Sushi",
-    "notes": null
-  },
-  {
-    "id": 52,
-    "code": "B",
-    "name": "Yakiniku Bowl",
-    "description": null,
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 53,
-    "code": "K",
-    "name": "Stekt Lax Bowl med chilimajo och teriyakisås",
-    "description": null,
-    "price": 139,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 54,
-    "code": "F",
-    "name": "Hemlagade Vårrullar",
-    "description": "Vårrullar med kyckling, räkor, glasnudlar och grönsaker",
-    "price": 49,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 55,
-    "code": "F",
-    "name": "Friterade vegetariska Vårrullar",
-    "description": null,
-    "price": 49,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 56,
-    "code": "F",
-    "name": "Tempura-friterade Räkor",
-    "description": null,
-    "price": 49,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 57,
-    "code": "F",
-    "name": "Räksoppa (Tom Yam Goong) 🌶️",
-    "description": "Räksoppa med champinjoner, tomat, galanga, koriander, citrongräs och räkpasta",
-    "price": 79,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 58,
-    "code": "F",
-    "name": "Kycklingsoppa (Tom Yam Gai) 🌶️",
-    "description": "Kycklingsoppa med champinjoner, tomat, galanga, koriander, citrongräs och räkpasta",
-    "price": 69,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 59,
-    "code": "F",
-    "name": "Kycklingsallad 🌶️🌶️",
-    "description": null,
-    "price": 69,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 60,
-    "code": "F",
-    "name": "Biffsallad 🌶️🌶️",
-    "description": null,
-    "price": 79,
-    "category": "Förrätter",
-    "notes": null
-  },
+      "id": 2,
+      "code": "S",
+      "name": "Crispy dumplings (Kyckling)",
+      "description": "Kyckling dumplings (4st).",
+      "price": 59,
+      "category": "Sushi/Smårätter",
+      "notes": null
+    },
     {
-    "id": 61,
-    "code": "F",
-    "name": "Friterad Kyckling",
-    "description": null,
-    "price": 49,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 62,
-    "code": "F",
-    "name": "Lökringar",
-    "description": null,
-    "price": 49,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 63,
-    "code": "F",
-    "name": "Veggie Dumpling",
-    "description": null,
-    "price": 59,
-    "category": "Förrätter",
-    "notes": null
-  },
-  {
-    "id": 64,
-    "code": "TH",
-    "name": "Specialmeny 1",
-    "description": "Förrätt: Hemlagade vårrullar, Veggie Dumplings eller lökringar. Varmrätt: Grillspett av kyckling med curry och jordnötssås, biff med röd curry, bambuskott och basilika, wokad fläsk med lök, paprika, vitlök, vitpeppar och cashewnötter. Serveras med kokt ris.",
-    "price": 149,
-    "category": "Thailändsk mat",
-    "notes": null
-  },
-  {
-    "id": 65,
-    "code": "TH",
-    "name": "Specialmeny 2",
-    "description": "Förrätt: Hemlagade vårrullar, Veggie Dumplings eller räksoppa. Varmrätt: Friterade räkor med valfri sås, grillspett av kyckling med curry och jordnötssås, biff med röd curry, bambuskott och basilika, wokad fläsk med lök, paprika, vitlök, vitpeppar och cashewnötter. Serveras med kokt ris.",
-    "price": 299,
-    "category": "Thailändsk mat",
-    "notes": null
-  },
-  {
-    "id": 66,
-    "code": "K",
-    "name": "Kycklinggrillspett",
-    "description": "Kycklinggrillspett med curry och jordnötssås",
-    "price": 139,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 67,
-    "code": "K",
-    "name": "Kyckling med röd curry 🌶️",
-    "description": "Kyckling med röd curry, banan och ananas",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 68,
-    "code": "K",
-    "name": "Kyckling med röd curry 🌶️",
-    "description": "Kyckling med röd curry, bambuskott, zucchini och basilika",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 69,
-    "code": "K",
-    "name": "Kyckling med grön curry 🌶️🌶️",
-    "description": "Kyckling med grön curry, bambuskott, zucchini och basilika",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 70,
-    "code": "K",
-    "name": "Panangkyckling 🌶️",
-    "description": "Kyckling, lök, bambuskott och paprika",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 71,
-    "code": "K",
-    "name": "Pad Pet kyckling 🌶️🌶️",
-    "description": "Kyckling, kokosmjölk, lök, bambuskott, paprika, chili och basilika",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 72,
-    "code": "K",
-    "name": "Wokad kyckling 🌶️🌶️",
-    "description": "Wokad kyckling med paprika, lök, bambuskott, chili, stark basilika och cashewnötter",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 73,
-    "code": "K",
-    "name": "Wokad kyckling",
-    "description": "Wokad kyckling med ingefära, lök, paprika, morötter",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 74,
-    "code": "K",
-    "name": "Wokad kyckling",
-    "description": "Wokad kyckling med ananas, lök, paprika, tomat, cashewnötter",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 75,
-    "code": "K",
-    "name": "Wokad kyckling",
-    "description": "Wokad kyckling med ostronsås, broccoli och champinjon",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 76,
-    "code": "B",
-    "name": "Biff med röd curry 🌶️",
-    "description": "Biff med röd curry, bambuskott, chili och basilika",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 77,
-    "code": "B",
-    "name": "Biff med grön curry 🌶️",
-    "description": "Biff med grön curry, bambuskott, chili och basilika",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 78,
-    "code": "B",
-    "name": "Panang biff 🌶️",
-    "description": "Panang biff med lök, bambuskott och paprika",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 79,
-    "code": "B",
-    "name": "Wokad biff 🌶️🌶️",
-    "description": "Wokad biff med paprika, lök, bambuskott, chili, stark basilika och cashewnötter",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 80,
-    "code": "B",
-    "name": "Wokad biff",
-    "description": "Wokad biff med paprika, ostron, broccoli och champinjon",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 81,
-    "code": "B",
-    "name": "Pad Pet biff 🌶️🌶️",
-    "description": "Biff med kokosmjölk, lök, paprika, bambuskott, chili och basilika",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 82,
-    "code": "B",
-    "name": "Stor Biffsallad",
-    "description": null,
-    "price": 149,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 83,
-    "code": "B",
-    "name": "Stekt biff",
-    "description": "Stekt biff med grönsaker och cashewnötter",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 84,
-    "code": "B",
-    "name": "Stekt biff",
-    "description": "Stekt biff med purjolök",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 85,
-    "code": "B",
-    "name": "Stekt biff",
-    "description": "Stekt biff med curry, bambuskott, lök, paprika",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 86,
-    "code": "B",
-    "name": "Stekt biff",
-    "description": "Stekt biff med bambuskott och champinjon",
-    "price": 139,
-    "category": "Biff",
-    "notes": null
-  },
-  {
-    "id": 87,
-    "code": "P",
-    "name": "Fläsk med röd curry 🌶️",
-    "description": "Fläsk med röd curry, bambuskott, chili och basilika",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
-  {
-    "id": 88,
-    "code": "P",
-    "name": "Wokad fläsk",
-    "description": "Wokad fläsk med vitlök och vitpeppar",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
-  {
-    "id": 89,
-    "code": "P",
-    "name": "Panang fläsk 🌶️",
-    "description": "Panang fläsk med lök, paprika och bambuskott",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
-  {
-    "id": 90,
-    "code": "P",
-    "name": "Stekt fläsk",
-    "description": "Stekt fläsk med grönsaker och cashewnötter",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
+      "id": 3,
+      "code": "S",
+      "name": "Crispy dumplings Vegetarisk",
+      "description": "Vegetariska dumplings (4st).",
+      "price": 59,
+      "category": "Sushi/Smårätter",
+      "notes": null
+    },
     {
-    "id": 91,
-    "code": "P",
-    "name": "Stekt fläsk",
-    "description": "Stekt fläsk med curry, bambuskott, lök, paprika",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
-  {
-    "id": 92,
-    "code": "P",
-    "name": "Stekt fläsk",
-    "description": "Stekt fläsk med sötsursås, ananas, tomat, lök",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
-  {
-    "id": 93,
-    "code": "P",
-    "name": "Stekt fläsk",
-    "description": "Stekt fläsk med bambuskott och champinjon",
-    "price": 129,
-    "category": "Fläsk",
-    "notes": null
-  },
-  {
-    "id": 94,
-    "code": "K",
-    "name": "Wokad kyckling med apelsinsås",
-    "description": "Orange Chicken",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 95,
-    "code": "K",
-    "name": "Friterad kyckling",
-    "description": "Friterad kyckling med valfri sås (sweet chili, jordnötssås, sötsursås, currysås)",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 96,
-    "code": "K",
-    "name": "Stekt kyckling",
-    "description": "Stekt kyckling med grönsaker och cashewnötter",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 97,
-    "code": "K",
-    "name": "Stekt kyckling",
-    "description": "Curry, bambuskott, lök och paprika",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 98,
-    "code": "K",
-    "name": "Stekt kyckling",
-    "description": "Sötsur sås, tomat, lök, ananas och paprika",
-    "price": 129,
-    "category": "Kyckling",
-    "notes": null
-  },
-  {
-    "id": 99,
-    "code": "FS",
-    "name": "Räkor med röd curry 🌶️🌶️",
-    "description": "Räkor med röd curry, lök, paprika, bambuskott, chili, basilika",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 100,
-    "code": "FS",
-    "name": "Räkor med röd curry 🌶️",
-    "description": "Räkor med röd curry, ananas, tomat och vindruvor",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 101,
-    "code": "FS",
-    "name": "Stekta räkor 🌶️🌶️",
-    "description": "Stekta räkor med lök, paprika, bambuskott, chili och basilika",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 102,
-    "code": "FS",
-    "name": "Friterade räkor",
-    "description": "Friterade räkor med valfri sås (sweet chili, jordnötssås, sötsursås, currysås)",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 103,
-    "code": "FS",
-    "name": "Stekta räkor",
-    "description": "Grönsaker och cashewnötter",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 104,
-    "code": "FS",
-    "name": "Stekta räkor",
-    "description": "Sötsur sås, tomat, ananas, lök, paprika",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 105,
-    "code": "FS",
-    "name": "Tempura-friterade räkor",
-    "description": "Tempura-friterade räkor med valfri sås (sweet chili, jordnötssås, sötsursås, currysås)",
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 106,
-    "code": "FS",
-    "name": "Räksoppa (Tom Yam Goong) 🌶️🌶️🌶️",
-    "description": null,
-    "price": 149,
-    "category": "Fisk & Skaldjur",
-    "notes": null
-  },
-  {
-    "id": 107,
-    "code": "A",
-    "name": "Anka med röd curry 🌶️",
-    "description": "Anka med röd curry, vindruvor, ananas och tomat",
-    "price": 149,
-    "category": "Anka",
-    "notes": null
-  },
-  {
-    "id": 108,
-    "code": "A",
-    "name": "Friterad anka",
-    "description": "Friterad anka med valfri sås (sweet chili, jordnötssås, sötsursås, currysås)",
-    "price": 149,
-    "category": "Anka",
-    "notes": null
-  },
-  {
-    "id": 109,
-    "code": "A",
-    "name": "Stekt anka",
-    "description": "Stekt anka med sötsursås, tomat, lök, ananas",
-    "price": 149,
-    "category": "Anka",
-    "notes": null
-  },
-  {
-    "id": 110,
-    "code": "A",
-    "name": "Stekt anka",
-    "description": "Stekt anka med soja, grönsaker och cashewnötter",
-    "price": 149,
-    "category": "Anka",
-    "notes": null
-  },
-  {
-    "id": 111,
-    "code": "TH",
-    "name": "Stekta äggnudlar",
-    "description": "Stekta äggnudlar med biff, kyckling och fläsk",
-    "price": 139,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 112,
-    "code": "TH",
-    "name": "Stekta risnudlar",
-    "description": "Stekta risnudlar med räkor, kyckling, ägg och grönsaker",
-    "price": 139,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 113,
-    "code": "TH",
-    "name": "Stekt ris",
-    "description": "Stekt ris med räkor, ägg och grönsaker",
-    "price": 149,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 114,
-    "code": "TH",
-    "name": "Pad Thai",
-    "description": "Stekta risnudlar med tamarindsås, ägg, jordnötter, räkor, kyckling, chili, tofu och böngroddar",
-    "price": 149,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 115,
-    "code": "TH",
-    "name": "Stekt ris",
-    "description": "Stekt ris med kyckling, ägg och grönsaker",
-    "price": 139,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 116,
-    "code": "TH",
-    "name": "Stekta äggnudlar",
-    "description": "Stekta äggnudlar med friterad kyckling",
-    "price": 139,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 117,
-    "code": "TH",
-    "name": "Stekta äggnudlar",
-    "description": "Stekta äggnudlar med tempura-friterade räkor",
-    "price": 139,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 118,
-    "code": "TH",
-    "name": "Pad Kee Moa 🌶️🌶️🌶️",
-    "description": "Stekta äggnudlar med biff, chili, basilika och grönsaker",
-    "price": 149,
-    "category": "Ris och Nudlar",
-    "notes": null
-  },
-  {
-    "id": 119,
-    "code": "V",
-    "name": "Stekta grönsaker med vitlök",
-    "description": null,
-    "price": 119,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 120,
-    "code": "V",
-    "name": "Stekt ris med ägg och grönsaker",
-    "description": null,
-    "price": 119,
-    "category": "Vegetariskt",
-    "notes": null
-  },
+      "id": 4,
+      "code": "S",
+      "name": "Panko kyckling",
+      "description": "Panko kyckling med chilimajo och terikakisås.",
+      "price": 59,
+      "category": "Sushi/Smårätter",
+      "notes": null
+    },
     {
-    "id": 121,
-    "code": "V",
-    "name": "Stekta grönsaker med lök, ananas, tomat, sötsur sås",
-    "description": null,
-    "price": 119,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 122,
-    "code": "V",
-    "name": "Grönsaker med röd curry och kokosmjölk",
-    "description": null,
-    "price": 119,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 123,
-    "code": "V",
-    "name": "Stekta risnudlar med ägg och grönsaker",
-    "description": null,
-    "price": 119,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 124,
-    "code": "V",
-    "name": "Tofu",
-    "description": null,
-    "price": 10,
-    "category": "Vegetariskt",
-    "notes": null
-  },
-  {
-    "id": 125,
-    "code": "D",
-    "name": "Pepsi",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 126,
-    "code": "D",
-    "name": "Pepsi Max",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 127,
-    "code": "D",
-    "name": "7-UP",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 128,
-    "code": "D",
-    "name": "Zingo",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 129,
-    "code": "D",
-    "name": "Mountain Dew",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 130,
-    "code": "D",
-    "name": "Trocadero",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 131,
-    "code": "D",
-    "name": "Hallonsoda",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 132,
-    "code": "D",
-    "name": "Ramlösa Citrus",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 133,
-    "code": "D",
-    "name": "Ramlösa Naturell",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 134,
-    "code": "D",
-    "name": "Festis Apelsin",
-    "description": null,
-    "price": 15,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 135,
-    "code": "D",
-    "name": "Festis Hallon",
-    "description": null,
-    "price": 15,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 136,
-    "code": "D",
-    "name": "Festis Päron",
-    "description": null,
-    "price": 15,
-    "category": "Dryck",
-    "notes": null
-  },
-  {
-    "id": 137,
-    "code": "D",
-    "name": "Lättöl",
-    "description": null,
-    "price": 20,
-    "category": "Dryck",
-    "notes": null
-  }
+      "id": 5,
+      "code": "S",
+      "name": "Mix Sushi 5 valfria bitar",
+      "description": "Välj 5 valfria bitar från ett stort urval av sushi!",
+      "price": 69,
+      "category": "Sushi",
+      "notes": null
+    },
+    {
+      "id": 6,
+      "code": "S",
+      "name": "Mix Sushi 10 valfria bitar",
+      "description": "Välj 10 valfria bitar från ett stort urval av sushi!",
+      "price": 129,
+      "category": "Sushi",
+      "notes": null
+    },
+    {
+      "id": 7,
+      "code": "S",
+      "name": "14 valfria bitar eller mer",
+      "description": "11 kr/st! Välj minst 14 valfria bitar från ett stort urval av sushi!",
+      "price": null,
+      "category": "Sushi",
+      "notes": "Pris per styck: 11 kr, min 14 bitar"
+    },
+    {
+      "id": 8,
+      "code": "S",
+      "name": "Mix Sushi 12 bitar Nigiri",
+      "description": "3 Lax, 3 Halstrad Lax, 3 Tonfisk och 3 Räkor.",
+      "price": 149,
+      "category": "Sushi",
+      "notes": null
+    },
+    {
+      "id": 9,
+      "code": "S",
+      "name": "Mix Sushi 12 bitar Mix",
+      "description": "3 Lax, 2 Räkor, 2 Avocado, 3 Laxrulle och 2 California roll.",
+      "price": 149,
+      "category": "Sushi",
+      "notes": null
+    },
+    {
+      "id": 10,
+      "code": "S",
+      "name": "Big Set 30 valfria bitar",
+      "description": "Mixa din egen sushi! Välj 30 bitar fritt mellan ett stort urval av både nigiri och maki rolls.",
+      "price": 329,
+      "category": "Sushi",
+      "notes": null
+    },
+    {
+      "id": 11,
+      "code": "S",
+      "name": "Big Set Combo 30 bitar",
+      "description": "5 Lax, 5 Räkor, 4 Halstrad Lax med chilimajo och rostad lök, 4 Tonfisk, 4 Laxrulle, 4 California roll och 4 Stark Lax.",
+      "price": 329,
+      "category": "Sushi",
+      "notes": null
+    },
+    {
+      "id": 12,
+      "code": "S",
+      "name": "Specialrulle Krispig Kyckling 10 bitar",
+      "description": "Panko kyckling, gurka, inlagda morötter, sallad, chilimajo, teriyakiås, sesamfrö och kaviar.",
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 13,
+      "code": "S",
+      "name": "Specialrulle Fire Salmon 10 bitar",
+      "description": "Tofu, crabsticks, halstrad lax, chilimajo och sesamfrö.",
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 14,
+      "code": "S",
+      "name": "Specialrulle Baan Thakök Stark Lax 10 bitar",
+      "description": "Laxröra, gurka, inlagda morötter, chilimajo, sesamfrö och rostad lök.",
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 15,
+      "code": "S",
+      "name": "Specialrulle Lax Superfotomaki 10 bitar",
+      "description": "Stekt lax, gurka, inlagda morötter, sallad och chilimajo.",
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 16,
+      "code": "S",
+      "name": "Drake rulle Avokado 10 bitar",
+      "description": null,
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 17,
+      "code": "S",
+      "name": "Drake rulle Tonfisk med chilimajo 10 bitar",
+      "description": null,
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 18,
+      "code": "S",
+      "name": "Drake rulle Lax med chilimajo 10 bitar",
+      "description": null,
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 19,
+      "code": "S",
+      "name": "Drake rulle Blanda",
+      "description": "Blanda mellan tonfisk, lax, räka, japansk ål och avocado.",
+      "price": 169,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 20,
+      "code": "S",
+      "name": "Veg. Drake rulle 10 bitar",
+      "description": "Tofu, avocado, gurka, philadelphiaost och teriyakisås.",
+      "price": 149,
+      "category": "Sushi/Specialrulle",
+      "notes": null
+    },
+    {
+      "id": 21,
+      "code": "S",
+      "name": "Hosomaki Lax 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 22,
+      "code": "S",
+      "name": "Hosomaki Tonfisk 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 23,
+      "code": "S",
+      "name": "Hosomaki Tempura 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 24,
+      "code": "S",
+      "name": "Hosomaki Crabsticks 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 25,
+      "code": "S",
+      "name": "Hosomaki Inlagda morötter 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 26,
+      "code": "S",
+      "name": "Hosomaki Gurka 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 27,
+      "code": "S",
+      "name": "Hosomaki Avokado 8 st",
+      "description": null,
+      "price": 75,
+      "category": "Sushi/Hosomaki",
+      "notes": null
+    },
+    {
+      "id": 28,
+      "code": "S",
+      "name": "Poké Bowl Vegetarisk",
+      "description": "Ris, tofu, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö.",
+      "price": 139,
+      "category": "Poké Bowl",
+      "notes": null
+    },
+    {
+      "id": 29,
+      "code": "S",
+      "name": "Poké Bowl Lax",
+      "description": "Ris, lax, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö.",
+      "price": 139,
+      "category": "Poké Bowl",
+      "notes": null
+    },
+    {
+      "id": 30,
+      "code": "S",
+      "name": "Poké Bowl Tonfisk",
+      "description": "Ris, tonfisk, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö.",
+      "price": 139,
+      "category": "Poké Bowl",
+      "notes": null
+    },
+    {
+      "id": 31,
+      "code": "S",
+      "name": "Poké Bowl Panko Kyckling med chilimajo",
+      "description": "Ris, Panko Kyckling, chilimajo, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö.",
+      "price": 139,
+      "category": "Poké Bowl",
+      "notes": null
+    },
+    {
+      "id": 32,
+      "code": "S",
+      "name": "Poké Bowl Tempura med chilimajo",
+      "description": "Ris, Tempura, chilimajo, avocado, mango, inlagd ingefära, picklad rödlök, sjögrässallad, edamamebönor och sesamfrö.",
+      "price": 139,
+      "category": "Poké Bowl",
+      "notes": null
+    },
+    {
+      "id": 33,
+      "code": "S",
+      "name": "Bento Veg. med friterad tofu",
+      "description": "Vegetarisk Bento med friterad tofu, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås.",
+      "price": 159,
+      "category": "Bento",
+      "notes": null
+    },
+    {
+      "id": 34,
+      "code": "S",
+      "name": "Bento Teriyaki Lax",
+      "description": "Bento med Teriyaki Lax, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås.",
+      "price": 159,
+      "category": "Bento",
+      "notes": null
+    },
+    {
+      "id": 35,
+      "code": "S",
+      "name": "Bento Teriyaki kyckling",
+      "description": "Bento med Teriyaki Kyckling, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås.",
+      "price": 159,
+      "category": "Bento",
+      "notes": null
+    },
+    {
+      "id": 36,
+      "code": "S",
+      "name": "Bento Yakiniku",
+      "description": "Bento med Yakiniku, ris, kimchi, dumplings (2st), sushi (4 bitar) och teriyakisås.",
+      "price": 159,
+      "category": "Bento",
+      "notes": null
+    },
+    {
+      "id": 37,
+      "code": "S",
+      "name": "Baan Thaikök Bibimbap",
+      "description": "Ris, yakiniku, tempura-friterade räkor, kimchi, kokt ägg, sjögrässallad, inlagd ingefära, inlagda morötter, picklad rödlök, böngroddar och koreansk chilisås.",
+      "price": 159,
+      "category": "Bento/Special",
+      "notes": null
+    },
+    {
+      "id": 38,
+      "code": "B",
+      "name": "Yakiniku",
+      "description": "Yakiniku med ris, tunna skivor entrecote, teriyakisås, lök och sesamfrö.",
+      "price": 149,
+      "category": "Varmrätter",
+      "notes": null
+    },
+    {
+      "id": 39,
+      "code": "K",
+      "name": "Teriyaki Kyckling",
+      "description": "Teriyaki Kyckling med ris, teriyakisås och sesamfrö.",
+      "price": 139,
+      "category": "Varmrätter",
+      "notes": null
+    },
+    {
+      "id": 40,
+      "code": "K",
+      "name": "Teriyaki Lax",
+      "description": "Ris, stekt lax, teriyakisås och sesamfrön.",
+      "price": 139,
+      "category": "Varmrätter",
+      "notes": null
+    },
+    {
+      "id": 41,
+      "code": "K",
+      "name": "Kyckling Katsu",
+      "description": "Ris, friterad kyckling med panko, chilimajo, soja och sesamfrön.",
+      "price": 139,
+      "category": "Varmrätter",
+      "notes": null
+    },
+    {
+      "id": 42,
+      "code": "FS",
+      "name": "Sjögrässallad",
+      "description": null,
+      "price": 35,
+      "category": "Tillägg",
+      "notes": null
+    },
+    {
+      "id": 43,
+      "code": "FS",
+      "name": "Inlagd ingefära",
+      "description": null,
+      "price": 35,
+      "category": "Tillägg",
+      "notes": null
+    },
+    {
+      "id": 44,
+      "code": "FS",
+      "name": "Picklad rödlök",
+      "description": null,
+      "price": 35,
+      "category": "Tillägg",
+      "notes": null
+    },
+    {
+      "id": 45,
+      "code": "FS",
+      "name": "Chilimajo",
+      "description": null,
+      "price": 15,
+      "category": "Tillägg",
+      "notes": null
+    },
+    {
+      "id": 46,
+      "code": "V",
+      "name": "Kimchi",
+      "description": null,
+      "price": 35,
+      "category": "Tillägg",
+      "notes": null
+    },
+    {
+      "id": 47,
+      "code": "S",
+      "name": "Alaska Roll",
+      "description": null,
+      "price": 159,
+      "category": "Sushi/Rullar",
+      "notes": null
+    },
+    {
+      "id": 48,
+      "code": "S",
+      "name": "Misosoppa",
+      "description": null,
+      "price": 0,
+      "category": "Soppor",
+      "notes": null
+    },
+    {
+      "id": 49,
+      "code": "S",
+      "name": "Yakiniku Roll",
+      "description": null,
+      "price": 159,
+      "category": "Sushi/Rullar",
+      "notes": null
+    },
+    {
+      "id": 50,
+      "code": "S",
+      "name": "Philadelphia roll",
+      "description": null,
+      "price": 149,
+      "category": "Sushi/Rullar",
+      "notes": null
+    },
+    {
+      "id": 51,
+      "code": "S",
+      "name": "Friterad roll",
+      "description": null,
+      "price": 149,
+      "category": "Sushi/Rullar",
+      "notes": null
+    },
+    {
+      "id": 52,
+      "code": "S",
+      "name": "Veggie Sushi Roll",
+      "description": null,
+      "price": 139,
+      "category": "Sushi/Rullar",
+      "notes": null
+    },
+    {
+      "id": 53,
+      "code": "S",
+      "name": "Yakiniku Bowl",
+      "description": null,
+      "price": 139,
+      "category": "Bowls",
+      "notes": null
+    },
+    {
+      "id": 54,
+      "code": "S",
+      "name": "Stekt Lax Bowl med chilimajo och teriyakisås",
+      "description": null,
+      "price": 139,
+      "category": "Bowls",
+      "notes": null
+    },
+    {
+      "id": 55,
+      "code": "F",
+      "name": "Hemlagade Vårrullar",
+      "description": "Vårrullar med kyckling, räkor, glasnudlar och grönsaker.",
+      "price": 49,
+      "category": "Förrätter",
+      "notes": null
+    },
+    {
+      "id": 56,
+      "code": "F",
+      "name": "Friterade vegetariska Vårrullar",
+      "description": null,
+      "price": 49,
+      "category": "Förrätter",
+      "notes": null
+    },
+    {
+      "id": 57,
+      "code": "F",
+      "name": "Tempura-friterade Räkor",
+      "description": null,
+      "price": 49,
+      "category": "Förrätter",
+      "notes": null
+    },
+    {
+      "id": 58,
+      "code": "F",
+      "name": "Räksoppa (Tom Yam Goong)",
+      "description": "Räksoppa med champinjoner, tomat, galanga, koriander, citrongräs och räkpasta.",
+      "price": 79,
+      "category": "Förrätter/Soppor",
+      "notes": "🌶️"
+    },
+    {
+      "id": 49,
+      "code": "S",
+      "name": "Kycklingsoppa (Tom Yam Gai)",
+      "description": "Kycklingsoppa med champinjoner, tomat, galanga, koriander, citrongräs och räkpasta.",
+      "price": 69,
+      "category": "Förrätter/Soppor",
+      "notes": "🌶️"
+    },
+    {
+      "id": 50,
+      "code": "S",
+      "name": "Kycklingsallad",
+      "description": null,
+      "price": 69,
+      "category": "Förrätter/Sallader",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 51,
+      "code": "S",
+      "name": "Biffsallad",
+      "description": null,
+      "price": 79,
+      "category": "Förrätter/Sallader",
+      "notes": "🌶️"
+    },
+    {
+      "id": 52,
+      "code": "S",
+      "name": "Räksallad",
+      "description": null,
+      "price": 79,
+      "category": "Förrätter/Sallader",
+      "notes": null
+    },
+    {
+      "id": 53,
+      "code": "B",
+      "name": "Friterad Kyckling",
+      "description": null,
+      "price": 49,
+      "category": "Förrätter",
+      "notes": null
+    },
+    {
+      "id": 54,
+      "code": "K",
+      "name": "Lökringar",
+      "description": null,
+      "price": 49,
+      "category": "Förrätter",
+      "notes": null
+    },
+    {
+      "id": 65,
+      "code": "F",
+      "name": "Veggie Dumpling",
+      "description": null,
+      "price": 59,
+      "category": "Förrätter",
+      "notes": null
+    },
+    {
+      "id": 66,
+      "code": "TH",
+      "name": "Specialmeny 1 (Thailändsk)",
+      "description": "Förrätt: Hemlagade vårrullar, Veggie Dumplings eller lökringar. Varmrätt: Blandning mellan grillspett kyckling med curry/jordnötssås, biff röd curry, wokad fläsk. Serveras med ris.",
+      "price": 149,
+      "category": "Thailändskt",
+      "notes": null
+    },
+    {
+      "id": 67,
+      "code": "TH",
+      "name": "Specialmeny 2 (Thailändsk)",
+      "description": "Förrätt: Hemlagade vårrullar, Veggie Dumplings eller räksoppa. Varmrätt: Blandning med friterade räkor, grillspett kyckling, biff röd curry, wokad fläsk. Serveras med ris.",
+      "price": 299,
+      "category": "Thailändskt",
+      "notes": null
+    },
+    {
+      "id": 68,
+      "code": "TH",
+      "name": "Kycklinggrillspett",
+      "description": "Kycklinggrillspett med curry och jordnötssås.",
+      "price": 139,
+      "category": "Thailändskt",
+      "notes": null
+    },
+    {
+      "id": 69,
+      "code": "TH",
+      "name": "Kyckling med röd curry (1)",
+      "description": "Kyckling med röd curry, banan och ananas.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": "🌶️"
+    },
+    {
+      "id": 70,
+      "code": "TH",
+      "name": "Kyckling med röd curry (2)",
+      "description": "Kyckling med röd curry, bambuskott, zucchini och basilika.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": "🌶️"
+    },
+    {
+      "id": 71,
+      "code": "TH",
+      "name": "Kyckling med grön curry",
+      "description": "Kyckling med grön curry, bambuskott, zucchini och basilika.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 72,
+      "code": "TH",
+      "name": "Panangkyckling",
+      "description": "Kyckling, lök, bambuskott och paprika.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": "🌶️"
+    },
+    {
+      "id": 73,
+      "code": "TH",
+      "name": "Pad Pet kyckling",
+      "description": "Kyckling, kokosmjölk, lök, bambuskott, paprika, chili och basilika",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 74,
+      "code": "TH",
+      "name": "Wokad kyckling (1)",
+      "description": "Wokad kyckling med paprika, lök, bambuskott, chili, stark basilika och cashewnötter.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 75,
+      "code": "TH",
+      "name": "Wokad kyckling (2)",
+      "description": "Wokad kyckling med ingefära, lök, paprika, morötter.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": null
+    },
+    {
+      "id": 76,
+      "code": "TH",
+      "name": "Wokad kyckling (3)",
+      "description": "Wokad kyckling med ananas, lök, paprika, tomat, cashewnötter.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": null
+    },
+    {
+      "id": 77,
+      "code": "TH",
+      "name": "Wokad kyckling (4)",
+      "description": "Wokad kyckling med ostronsås, broccoli och champinjon.",
+      "price": 129,
+      "category": "Thailändskt",
+      "notes": null
+    },
+    {
+      "id": 78,
+      "code": "B",
+      "name": "Biff med röd curry",
+      "description": "Biff med röd curry, bambuskott, chili och basilika.",
+      "price": 139,
+      "category": "Biff",
+      "notes": "🌶️"
+    },
+    {
+      "id": 79,
+      "code": "B",
+      "name": "Biff med grön curry",
+      "description": "Biff med grön curry, bambuskott, chili och basilika",
+      "price": 139,
+      "category": "Biff",
+      "notes": "🌶️"
+    },
+    {
+      "id": 80,
+      "code": "B",
+      "name": "Panang biff",
+      "description": "Panang biff med lök, bambuskott och paprika",
+      "price": 139,
+      "category": "Biff",
+      "notes": "🌶️"
+    },
+    {
+      "id": 81,
+      "code": "B",
+      "name": "Wokad biff (stark)",
+      "description": "Wokad biff med paprika, lök, bambuskott, chili, stark basilika och cashewnötter.",
+      "price": 139,
+      "category": "Biff",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 82,
+      "code": "B",
+      "name": "Wokad biff",
+      "description": "Wokad biff med paprika, ostron, broccoli och champinjon.",
+      "price": 139,
+      "category": "Biff",
+      "notes": null
+    },
+    {
+      "id": 83,
+      "code": "B",
+      "name": "Pad Pet biff",
+      "description": "Biff med kokosmjölk, lök, paprika, bambuskott, chili och basilika.",
+      "price": 139,
+      "category": "Biff",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 84,
+      "code": "B",
+      "name": "Stor Biffsallad",
+      "description": null,
+      "price": 149,
+      "category": "Biff",
+      "notes": null
+    },
+    {
+      "id": 85,
+      "code": "B",
+      "name": "Stekt biff (1)",
+      "description": "Stekt biff med grönsaker och cashewnötter.",
+      "price": 139,
+      "category": "Biff",
+      "notes": null
+    },
+    {
+      "id": 86,
+      "code": "B",
+      "name": "Stekt biff (2)",
+      "description": "Stekt biff med purjolök.",
+      "price": 139,
+      "category": "Biff",
+      "notes": null
+    },
+    {
+      "id": 87,
+      "code": "B",
+      "name": "Stekt biff (3)",
+      "description": "Stekt biff med curry, bambuskott, lök, paprika.",
+      "price": 139,
+      "category": "Biff",
+      "notes": null
+    },
+    {
+      "id": 88,
+      "code": "B",
+      "name": "Stekt biff (4)",
+      "description": "Stekt biff med bambuskott och champinjon.",
+      "price": 139,
+      "category": "Biff",
+      "notes": null
+    },
+    {
+      "id": 89,
+      "code": "P",
+      "name": "Fläsk med röd curry",
+      "description": "Fläsk med röd curry, bambuskott, chili och basilika",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": "🌶️"
+    },
+    {
+      "id": 90,
+      "code": "P",
+      "name": "Wokad fläsk",
+      "description": "Wokad fläsk med vitlök och vitpeppar",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": null
+    },
+    {
+      "id": 91,
+      "code": "P",
+      "name": "Panang fläsk",
+      "description": "Panang fläsk med lök, paprika och bambuskott",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": "🌶️"
+    },
+    {
+      "id": 92,
+      "code": "P",
+      "name": "Stekt fläsk (1)",
+      "description": "Stekt fläsk med grönsaker och cashewnötter",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": null
+    },
+    {
+      "id": 93,
+      "code": "P",
+      "name": "Stekt fläsk (2)",
+      "description": "Stekt fläsk med curry, bambuskott, lök, paprika",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": null
+    },
+    {
+      "id": 94,
+      "code": "P",
+      "name": "Stekt fläsk (3)",
+      "description": "Stekt fläsk med sötsursås, ananas, tomat, lök",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": null
+    },
+    {
+      "id": 95,
+      "code": "P",
+      "name": "Stekt fläsk (4)",
+      "description": "Stekt fläsk med bambuskott och champinjon",
+      "price": 129,
+      "category": "Fläsk",
+      "notes": null
+    },
+    {
+      "id": 96,
+      "code": "K",
+      "name": "Wokad kyckling med apelsinsås",
+      "description": "Wokad kyckling med apelsinsås (Orange Chicken)",
+      "price": 129,
+      "category": "Kyckling",
+      "notes": null
+    },
+    {
+      "id": 97,
+      "code": "K",
+      "name": "Friterad kyckling",
+      "description": "Friterad kyckling med valfri sås. Välj mellan sweet chili, jordnötssås, sötsursås, currysås. Skriv val i kommentarsfältet.",
+      "price": 129,
+      "category": "Kyckling",
+      "notes": null
+    },
+    {
+      "id": 98,
+      "code": "K",
+      "name": "Stekt kyckling (1)",
+      "description": "Stekt kyckling med grönsaker och cashewnötter",
+      "price": 129,
+      "category": "Kyckling",
+      "notes": null
+    },
+    {
+      "id": 99,
+      "code": "K",
+      "name": "Stekt kyckling (2)",
+      "description": "Curry, bambuskott, lök och paprika",
+      "price": 129,
+      "category": "Kyckling",
+      "notes": null
+    },
+    {
+      "id": 100,
+      "code": "K",
+      "name": "Stekt kyckling (3)",
+      "description": "Sötsur sås, tomat, lök, ananas och paprika",
+      "price": 129,
+      "category": "Kyckling",
+      "notes": null
+    },
+    {
+      "id": 101,
+      "code": "FS",
+      "name": "Räkor med röd curry (stark)",
+      "description": "Räkor med röd curry, lök, paprika, bambuskott, chili, basilika.",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": "🌶️🌶️"
+    },
+    {
+      "id": 102,
+      "code": "FS",
+      "name": "Räkor med röd curry",
+      "description": "Räkor med röd curry, ananas, tomat och vindruvor.",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": "🌶️"
+    },
+    {
+      "id": 103,
+      "code": "FS",
+      "name": "Stekta räkor",
+      "description": "Stekta räkor med lök, paprika, bambuskott, chili och basilika.",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": "🌶️"
+    },
+    {
+      "id": 104,
+      "code": "FS",
+      "name": "Friterade räkor",
+      "description": "Friterade räkor med valfri sås. Välj mellan sweet chili, jordnötssås, sötsursås, currysås. Skriv val i kommentarsfältet.",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": null
+    },
+    {
+      "id": 105,
+      "code": "FS",
+      "name": "Stekta räkor (2)",
+      "description": "Stekta räkor med grönsaker och cashewnötter",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": null
+    },
+    {
+      "id": 106,
+      "code": "FS",
+      "name": "Stekta räkor (3)",
+      "description": "Stekta räkor med sötsur sås, tomat, ananas, lök, paprika",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": null
+    },
+    {
+      "id": 107,
+      "code": "FS",
+      "name": "Tempura-friterade räkor",
+      "description": "Tempura-friterade räkor med valfri sås. Välj mellan sweet chili, jordnötssås, sötsursås, currysås. Skriv val i kommentarsfältet.",
+      "price": 149,
+      "category": "Fisk och Skaldjur",
+      "notes": null
+    },
+    {
+      "id": 108,
+      "code": "FS",
+      "name": "Räksoppa (Tom Yam Goong) - Very hot",
+      "description": null,
+      "price": 149,
+      "category": "Fisk och Skaldjur/Soppor",
+      "notes": "🌶️🌶️🌶️"
+    },
+    {
+      "id": 109,
+      "code": "A",
+      "name": "Anka med röd curry",
+      "description": "Anka med röd curry, vindruvor, ananas och tomat.",
+      "price": 149,
+      "category": "Anka",
+      "notes": "🌶️"
+    },
+    {
+      "id": 110,
+      "code": "A",
+      "name": "Friterad anka",
+      "description": "Friterad anka med valfri sås. Välj mellan sweet chili, jordnötssås, sötsursås, currysås.",
+      "price": 149,
+      "category": "Anka",
+      "notes": null
+    },
+    {
+      "id": 111,
+      "code": "A",
+      "name": "Stekt anka (1)",
+      "description": "Stekt anka med sötsursås, tomat, lök, ananas.",
+      "price": 149,
+      "category": "Anka",
+      "notes": null
+    },
+    {
+      "id": 112,
+      "code": "A",
+      "name": "Stekt anka (2)",
+      "description": "Stekt anka med soja och grönsaker och caschewnötter.",
+      "price": 149,
+      "category": "Anka",
+      "notes": null
+    },
+    {
+      "id": 113,
+      "code": "TH",
+      "name": "Stekta äggnudlar",
+      "description": "Stekta äggnudlar med biff, kyckling och fläsk.",
+      "price": 139,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 114,
+      "code": "TH",
+      "name": "Stekta risnudlar",
+      "description": "Stekta risnudlar med räkor, kyckling, ägg och grönsaker.",
+      "price": 139,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 115,
+      "code": "TH",
+      "name": "Stekt ris",
+      "description": "Stekt ris med räkor, ägg och grönsaker.",
+      "price": 149,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 116,
+      "code": "TH",
+      "name": "Pad Thai",
+      "description": "Stekta risnudlar med tamarindsås, ägg, jordnötter, räkor, kyckling, chili, tofu och böngroddar.",
+      "price": 149,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 117,
+      "code": "TH",
+      "name": "Stekt ris (kyckling & grönsaker)",
+      "description": "Stekt ris med kyckling, ägg och grönsaker.",
+      "price": 139,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 118,
+      "code": "TH",
+      "name": "Stekta äggnudlar (friterad kyckling)",
+      "description": "Stekta äggnudlar med friterad kyckling.",
+      "price": 139,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 119,
+      "code": "TH",
+      "name": "Stekta äggnudlar (tempura räkor)",
+      "description": "Stekta äggnudlar med tempura-friterade räkor.",
+      "price": 139,
+      "category": "Ris och Nudlar",
+      "notes": null
+    },
+    {
+      "id": 120,
+      "code": "TH",
+      "name": "Pad Kee Moa",
+      "description": "Stekta äggnudlar med biff, chili, basilika och grönsaker.",
+      "price": 149,
+      "category": "Ris och Nudlar",
+      "notes": "🌶️🌶️🌶️"
+    },
+    {
+      "id": 121,
+      "code": "V",
+      "name": "Stekta grönsaker med vitlök",
+      "description": null,
+      "price": 119,
+      "category": "Vegetariskt",
+      "notes": null
+    },
+    {
+      "id": 122,
+      "code": "V",
+      "name": "Stekt ris med ägg och grönsaker",
+      "description": null,
+      "price": 119,
+      "category": "Vegetariskt",
+      "notes": null
+    },
+    {
+      "id": 123,
+      "code": "V",
+      "name": "Stekta grönsaker med lök, ananas, tomat",
+      "description": "Med sötsur sås",
+      "price": 119,
+      "category": "Vegetariskt",
+      "notes": null
+    },
+    {
+      "id": 124,
+      "code": "V",
+      "name": "Grönsaker med röd curry och kokosmjölk",
+      "description": null,
+      "price": 119,
+      "category": "Vegetariskt",
+      "notes": null
+    },
+    {
+      "id": 125,
+      "code": "V",
+      "name": "Stekta risnudlar med ägg och grönsaker",
+      "description": null,
+      "price": 119,
+      "category": "Vegetariskt",
+      "notes": null
+    },
+    {
+      "id": 126,
+      "code": "V",
+      "name": "Extra Tofu",
+      "description": null,
+      "price": 10,
+      "category": "Tillägg",
+      "notes": null
+    },
+    {
+      "id": 127,
+      "code": "D",
+      "name": "Pepsi",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 128,
+      "code": "D",
+      "name": "Pepsi Max",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 129,
+      "code": "D",
+      "name": "7-UP",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 130,
+      "code": "D",
+      "name": "Zingo",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 131,
+      "code": "D",
+      "name": "Mountain Dew",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 132,
+      "code": "D",
+      "name": "Trocadero",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 133,
+      "code": "D",
+      "name": "Hallonsoda",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 134,
+      "code": "D",
+      "name": "Ramlösa Citrus",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 135,
+      "code": "D",
+      "name": "Ramlösa Naturell",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 136,
+      "code": "D",
+      "name": "Festis Apelsin",
+      "description": null,
+      "price": 15,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 137,
+      "code": "D",
+      "name": "Festis Hallon",
+      "description": null,
+      "price": 15,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 138,
+      "code": "D",
+      "name": "Festis Päron",
+      "description": null,
+      "price": 15,
+      "category": "Dryck",
+      "notes": null
+    },
+    {
+      "id": 139,
+      "code": "D",
+      "name": "Lättöl",
+      "description": null,
+      "price": 20,
+      "category": "Dryck",
+      "notes": null
+    }
   ]
 }
