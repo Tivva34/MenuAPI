@@ -523,7 +523,7 @@
       "notes": "🌶️"
     },
     {
-      "id": 49,
+      "id": 59,
       "code": "S",
       "name": "Kycklingsoppa (Tom Yam Gai)",
       "description": "Kycklingsoppa med champinjoner, tomat, galanga, koriander, citrongräs och räkpasta.",
@@ -532,7 +532,7 @@
       "notes": "🌶️"
     },
     {
-      "id": 50,
+      "id": 60,
       "code": "S",
       "name": "Kycklingsallad",
       "description": "Sallad med marinerad kyckling, fräscha grönsaker och dressing.",
@@ -541,7 +541,7 @@
       "notes": "🌶️🌶️"
     },
     {
-      "id": 51,
+      "id": 61,
       "code": "S",
       "name": "Biffsallad",
       "description": "Sallad med strimlad biff och kryddig dressing.",
@@ -550,7 +550,7 @@
       "notes": "🌶️"
     },
     {
-      "id": 52,
+      "id": 62,
       "code": "S",
       "name": "Räksallad",
       "description": "Sallad med räkor, fräscha grönsaker och lätt dressing.",
@@ -559,7 +559,7 @@
       "notes": null
     },
     {
-      "id": 53,
+      "id": 63,
       "code": "B",
       "name": "Friterad Kyckling",
       "description": "Friterade kycklingbitar, krispiga och smakrika.",
@@ -568,7 +568,7 @@
       "notes": null
     },
     {
-      "id": 54,
+      "id": 64,
       "code": "K",
       "name": "Lökringar",
       "description": "Friterade lökringar, serveras med valfri dip.",
